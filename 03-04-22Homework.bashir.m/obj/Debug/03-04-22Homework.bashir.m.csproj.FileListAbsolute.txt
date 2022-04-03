@@ -1,0 +1,7 @@
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\obj\Debug\03-04-22Homework.bashir.m.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\obj\Debug\03-04-22Homework.bashir.m.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\bin\Debug\03-04-22Homework.bashir.m.exe.config
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\bin\Debug\03-04-22Homework.bashir.m.exe
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\bin\Debug\03-04-22Homework.bashir.m.pdb
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\obj\Debug\03-04-22Homework.bashir.m.exe
+C:\Users\comp\source\repos\03-04-22Homework.bashir.m\03-04-22Homework.bashir.m\obj\Debug\03-04-22Homework.bashir.m.pdb
